@@ -1,5 +1,5 @@
 flask
-rembg
+rembg==2.0.50
 pillow
 onnxruntime
 opencv-python-headless
